@@ -36,7 +36,7 @@ Connect the OUT pin of LM35 to any Analog Input pin on Arduino (e.g., A0).
 
 ## Arduino Code:
 
-```
+```bash
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
