@@ -5,16 +5,16 @@ Used to measure the temperature value.
 Different type of temperature sensor is available.
 Woking principle: Providing reading via electrical signal.
 
-Now we are going to build a temperature display using temperature and humidity sensor module. This is measuring the surrounding temperature.
+Now we are going to build a temperature display using a temperature and humidity sensor module. This is measuring the surrounding temperature.
 
 #### Components:
  - Arduino
  - Connecting cable
  - LCD module
  - Temperature sensor
- - Jumber wire
- - Software
- - Arduino
+ - Jumper wire
+ - Arduino Software
+ 
 
 
 #### Interfacing with Arduino:
