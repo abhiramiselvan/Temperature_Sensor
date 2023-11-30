@@ -76,5 +76,5 @@ void loop()
   delay(1000);
 }
 ```
-
+https://github.com/abhiramiselvan/Temperature_Sensor/assets/144225835/b8fe7ca2-dc5b-4756-bcfa-c022f8f43839
 
